@@ -20,9 +20,9 @@ Here is specific criteria:
     :properly utilize Bootstrap components
     :incorporate a sticky footer
 
-    Here is the link to the deployed page: https://justrait.github.io/AboutMeBootstrap/
+Here is the link to the deployed page: https://justrait.github.io/AboutMeBootstrap/
 
-    Here is the link to the repo: https://github.com/JuStrait/AboutMeBootstrap
+Here is the link to the repo: https://github.com/JuStrait/AboutMeBootstrap
 
 ![projectpage](Assets/abt.JPG "About Page")
 ![projectpage](Assets/port.JPG "Portfolio Page")
